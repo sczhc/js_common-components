@@ -1,0 +1,13 @@
+.tailoring-container input[name="upload"]{
+    display: none;
+}
+
+.tailoring-container .upload-button{
+    cursor: pointer;
+    padding: 10px 20px;
+    outline: none;
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+}
